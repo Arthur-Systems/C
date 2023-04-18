@@ -1,0 +1,3 @@
+[submodule "hwei20"]
+	path = hwei20
+	url = git@git.ucsc.edu:cse13s/spring2023/hwei20.git
