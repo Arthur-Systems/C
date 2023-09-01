@@ -1,5 +1,3 @@
-# Makefile for example program
-
 # Compiler and flags
 CC = gcc
 CFLAGS = -Wall -Werror
